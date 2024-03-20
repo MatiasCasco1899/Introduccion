@@ -7,7 +7,8 @@
     <link rel="stylesheet" href="hola.css">
 </head>
 <body>
+    <form action= "index.php" method="post">
+        <h1>Hola</h1>
     <?php echo "Hola Mundo!!!"; ?>
-    
 </body>
 </html>
