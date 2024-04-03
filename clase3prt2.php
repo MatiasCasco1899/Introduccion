@@ -12,6 +12,12 @@
     En un mundo conectado, donde cada segundo se envia millones de correos electronicos...
     END;
     ?> 
+    // Holaaaaaaaaa mundooooooooo
+    /*Hola 
+    Como
+    Andas
+    */
+    # ¿Vamos a jugar un valorant asi subimos a platino?
     
 </body>
 </html>
