@@ -23,5 +23,11 @@
     } ?>
 </ul>
 
+<ul>
+    <?php foreach ($agenda as $arreglo):?>
+        <li style="color:red"><?php echo $arreglo;?></li>
+    <?php endforeach;?>    
+</ul>
+
 </body>
 </html>
